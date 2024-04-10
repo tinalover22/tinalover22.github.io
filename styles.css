@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+            font-family: "Josefin Sans", sans-serif;
+            background-color: pink;
+            color: white;
+}
+
+header {
+    background-color: #FAE8ED;
+    padding: 60px;
+    letter-spacing: 4px;
+    color: #E49CB4;
+}
+h1{
+            font-family: "Josefin Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 1000;
+            font-style: normal;
+}
